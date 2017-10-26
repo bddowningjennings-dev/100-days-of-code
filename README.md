@@ -7,7 +7,7 @@
 [Oct 26, Thursday, 2017]
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode from @blahmountain
+1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode from [@blahmountain](https://twitter.com/blahmountain)
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to this GitHub repo every day so that anyone can see my progress.
 4. I will update the [Log](log.md) [log.md] with the day's progress and provide a link so that others can see my progress.
