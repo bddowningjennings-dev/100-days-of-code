@@ -1,5 +1,4 @@
-# #100DaysOfCode Log - 
-# Round 1 - bddowningjennings-dev
+## #100DaysOfCode Log: Round 1: bddowningjennings-dev
 
 The log of my #100DaysOfCode challenge. Started on [Oct 26, Thursday, 2017].
 
