@@ -11,8 +11,12 @@
   <div class="container">
     <h1>Hello index.ejs</h1>
     <% for (let user of users) { %>
-      <p><%= user.name %></p>
+      <p><%= user.name %> - <%= user.age %></p>
     <% } %>
+    <form action="/users" method="post">
+      <input type="text" name="name">
+      <input type="submit" value="pressed">
+    </form>
   </div>
 </body>
 </html>
